@@ -1,0 +1,12 @@
+h1 {
+    color: green;
+    background-color: aquamarine;
+    font-size: 44px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: 20px;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
